@@ -3,7 +3,7 @@
 ## Olá! Eu sou Mariana Cossetti
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats-mcossetti.vercel.app/api/top-langs/?username=MCossetti&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCossetti&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
